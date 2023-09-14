@@ -4,4 +4,4 @@ This is an end to end PowerBI project for a "Bicycle Company" called "Adventure 
 
 Hope you like it 😌.
 
-PS: Please open "AdventureWorks Report.pbix" file attached in the filem action in your own System as github doesn't support this big data files.
+PS: Please open "AdventureWorks Report.pbix" file attached in the files section in your own System as Github doesn't support this big data files.
